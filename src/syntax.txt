@@ -1,4 +1,4 @@
-CLI | Switch to GUI later
+CLI | Switch to GUI later?
 rustsniff --help | -h
 rustsniff --threads | -t 50 {ip}
 rustsniff {ip}
